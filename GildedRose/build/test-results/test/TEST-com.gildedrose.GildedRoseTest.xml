@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.gildedrose.GildedRoseTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2022-11-05T14:58:36" hostname="DESKTOP-GA9257J" time="0.042">
+<testsuite name="com.gildedrose.GildedRoseTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2022-11-05T15:09:12" hostname="DESKTOP-GA9257J" time="0.039">
   <properties/>
-  <testcase name="Test BACKSTAGE 1" classname="com.gildedrose.GildedRoseTest" time="0.015"/>
-  <testcase name="Test BACKSTAGE 2" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Test BACKSTAGE 1" classname="com.gildedrose.GildedRoseTest" time="0.013"/>
+  <testcase name="Test BACKSTAGE 2" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test BACKSTAGE 3" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
-  <testcase name="Test BACKSTAGE 4" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test BACKSTAGE 5" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Test BACKSTAGE 4" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test BACKSTAGE 5" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test BACKSTAGE 6" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test BACKSTAGE 7" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test BACKSTAGE 8" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test BACKSTAGE 9" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
-  <testcase name="Test RANDOM NAME 1" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Test RANDOM NAME 1" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test RANDOM NAME 2" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
-  <testcase name="Test RANDOM NAME 3" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test RANDOM NAME 3" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
   <testcase name="Test RANDOM NAME 4" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
-  <testcase name="Test RANDOM NAME 5" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test RANDOM NAME 6" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Test RANDOM NAME 5" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test RANDOM NAME 6" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test AGEDBRIE 1" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
-  <testcase name="Test AGEDBRIE 2" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test AGEDBRIE 2" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
   <testcase name="Test AGEDBRIE 3" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test AGEDBRIE 4" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
-  <testcase name="Test BACKSTAGE 10" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test BACKSTAGE 10" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Test CONJURED 1" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test CONJURED 2" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test SULFURAS 1" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test SULFURAS 2" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test SULFURAS 3" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test SULFURAS 3" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
   <testcase name="Test SULFURAS 4" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
